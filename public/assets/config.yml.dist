@@ -2,8 +2,8 @@
 # Homepage configuration
 # See https://fontawesome.com/v5/search for icons options
 
-title: "Demo dashboard"
-subtitle: "Homer"
+title: "Prisma Group Dashboard"
+subtitle: "PGDASH"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
