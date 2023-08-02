@@ -9,7 +9,7 @@ logo: "logo.png"
 
 header: true
 # footer: '<p>Created with <span class="has-text-danger">❤️</span> with <a href="https://bulma.io/">bulma</a>, <a href="https://vuejs.org/">vuejs</a> & <a href="https://fontawesome.com/">font awesome</a> // Fork me on <a href="https://github.com/bastienwirtz/homer"><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
-footer: '<p>Created with <span class="has-text-danger">❤️</span> by <a href="https://prisma-group.ch/">Prisma Group SA</a>, <a href="https://prisma-group.ch/">vuejs</a></p>'
+footer: '<p>Created with <span class="has-text-danger">❤️</span> by <a href="https://prisma-group.ch/">Prisma Group SA</a>, <a href="https://prisma-group.ch/"></a></p>'
 
 # Optional theme customization
 theme: default
@@ -72,15 +72,16 @@ services:
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app"
+      - name: "CRM"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "Suite dash"
         tag: "app"
-        keywords: "self hosted reddit"
-        url: "https://www.reddit.com/r/selfhosted/"
+        keywords: "CRM"
+        url: "https://crm.prisma-group.ch"
         target: "_blank" # optional html a tag target attribute
-      - name: "Another one"
+      - name: "Wiki"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
+				url: "https://wiki.prisma-group.ch"
         tag: "app"
         url: "#"
