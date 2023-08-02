@@ -84,4 +84,3 @@ services:
         subtitle: "Another application"
         url: "https://wiki.prisma-group.ch"
         tag: "app"
-        url: "#additional-page"
