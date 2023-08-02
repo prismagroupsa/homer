@@ -82,6 +82,6 @@ services:
       - name: "Wiki"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
-				url: "https://wiki.prisma-group.ch"
+		url: "https://wiki.prisma-group.ch"
         tag: "app"
         url: "#"
