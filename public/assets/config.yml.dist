@@ -61,7 +61,7 @@ links:
     url: "https://www.prisma-group.ch"
     target: "_blank"
   - name: "Webmail"
-    icon: "fa-regular fa-building"
+    icon: "fa-regular fa-envelope"
     url: "https://webmail.prisma-group.ch"
     target: "_blank"
 
