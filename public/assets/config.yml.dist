@@ -61,7 +61,7 @@ links:
     url: "https://www.prisma-group.ch"
     target: "_blank"
   - name: "Webmail"
-    icon: "fas fa-book"
+    icon: "fa-regular fa-building"
     url: "https://webmail.prisma-group.ch"
     target: "_blank"
 
@@ -76,7 +76,7 @@ links:
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
   - name: "Corporate Apps"
-    icon: "fas fa-cloud"
+    icon: "fa-regular fa-building"
     items:
       - name: "CRM"
         logo: "assets/tools/sample.png"
